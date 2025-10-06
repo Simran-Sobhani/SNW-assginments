@@ -1,0 +1,8 @@
+ol{
+    list-style-type: upper-roman;
+    font-weight: bold;
+    font-style: oblique;
+}
+ul{
+    background-color: lightyellow;
+}
